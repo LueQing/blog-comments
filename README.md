@@ -41,4 +41,3 @@ You can deploy your new Waline project with a single command from your terminal 
 ```shell
 $ vercel
 ```
- 
